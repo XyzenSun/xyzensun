@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
- 📫 How to reach me: My Email：lucid-uncanny-calm@duck.com
+ 📫 My Email：lucid-uncanny-calm@duck.com
 <!--
 **XyzenSun/xyzensun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
